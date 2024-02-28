@@ -29,7 +29,7 @@ Dentro do [Portal Vision Studio](https://portal.vision.cognitive.azure.com/galle
 
 ### Teste Análise de Imagem
 
-Dentro do [Portal Vision Studio](https://portal.vision.cognitive.azure.com/gallery/featured), podemos encontrar a opção __Add Captions To Images__, em que podemos fazer testes em que o programa atribuirá legendas descrevendo as imagens selecionadas ou importadas. Como no exemplo abaixo:
+Dentro do [Portal Vision Studio](https://portal.vision.cognitive.azure.com/gallery/featured), podemos encontrar a opção __Add Captions To Images__, na qual podemos fazer testes em que o programa atribuirá legendas descrevendo as imagens selecionadas ou importadas. Como no exemplo abaixo:
 
 ![alt text](Screenshot_196.png)
 
